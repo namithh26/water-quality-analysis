@@ -92,10 +92,6 @@ Random Forest achieved higher test accuracy and performed better in identifying 
 - Evaluate macro F1-score and class-wise performance.
 - Validate the models using real-world water quality samples.
 
-## Project Presentation
-
-The project presentation is available in the `presentation/` folder.
-
 ## Author
 
 AI and Data Science Engineering Student
